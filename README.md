@@ -205,6 +205,7 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 - [Chinese / 中文](translations/chinese/README.md)
 - [French / Francais](translations/french/README.md)
 - [Hindi / हिंदी](translations/hindi/README.md)
+- [Korean / 한국어](translations/korean/README.md)
 - [Portuguese / Portugues](translations/portuguese/README.md)
 - [Russian / Русский](translations/russian/README.md)
 - [Spanish / Espanol](translations/spanish/README.md)
